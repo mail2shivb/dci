@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>com.dci.excercises</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>junit-annotation-afterall</module>
+        <module>junit-annotation-AfterEach</module>
+        <module>junit-annotation-all</module>
+        <module>junit-annotation-BeforeAll</module>
+        <module>junit-annotation-BeforeEach</module>
+        <module>junit-annotation-disabled</module>
+        <module>junit-annotation-DisplayName</module>
+        <module>junit-annotation-ParameterizedTest</module>
+        <module>junit-annotation-RepeatedTest</module>
+        <module>junit-annotation-Test</module>
+        <module>junit-annotation-Test2</module>
+        <module>junit-annotation-TestMethodOrder</module>
+        <module>junit-assertions-arrayEquals</module>
+        <module>junit-assertions-assertAll</module>
+        <module>junit-assertions-equals-notEquals</module>
+        <module>junit-assertions-exceptions</module>
+        <module>junit-assertions-iterable</module>
+        <module>junit-assertions-not-notNull</module>
+        <module>junit-assertions-true-false</module>
+    </modules>
+    <dependencies>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter</artifactId>
+            <version>RELEASE</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter</artifactId>
+            <version>RELEASE</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+    <properties>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
+    </properties>
+
+</project>
