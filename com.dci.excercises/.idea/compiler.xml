@@ -12,6 +12,7 @@
         <module name="junit-annotation-RepeatedTest" />
         <module name="junit-annotation-TestMethodOrder" />
         <module name="junit-annotation-disabled" />
+        <module name="junit-tdd-calculator" />
         <module name="junit-assertions-assertAll" />
         <module name="junit-assertions-true-false" />
         <module name="junit-assertions-arrayEquals" />

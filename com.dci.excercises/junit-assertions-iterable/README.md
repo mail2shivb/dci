@@ -17,7 +17,7 @@
      
  
  Write test methods to verify :
-   * Employee departments are "sales" and "admin" by using assertIterableEquals()
+   * Employee departments are "sales" and "admin" by using assert method: **assertIterableEquals()**
    
    
    

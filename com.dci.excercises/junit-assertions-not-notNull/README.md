@@ -17,8 +17,8 @@
      
  
  Write test methods to verify :
-   * Employee lastName is null by using assertNull()
-   * Employee salary is not null by using assertNotNull()
+   * Employee lastName is null by using assert method: **assertNull()**
+   * Employee salary is not null by using assert method: **assertNotNull()**
    
    
     
