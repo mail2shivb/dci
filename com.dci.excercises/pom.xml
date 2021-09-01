@@ -29,6 +29,7 @@
         <module>junit-assertions-not-notNull</module>
         <module>junit-assertions-true-false</module>
         <module>junit-tdd-calculator</module>
+        <module>junit-tdd-oddeven</module>
     </modules>
     <dependencies>
         <dependency>

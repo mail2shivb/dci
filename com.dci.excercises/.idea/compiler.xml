@@ -19,6 +19,7 @@
         <module name="junit-assertions-equals-notEquals" />
         <module name="junit-annotation-AfterAll" />
         <module name="junit-annotation-DisplayName" />
+        <module name="junit-tdd-oddeven" />
         <module name="junit-annotation-BeforeAll" />
         <module name="junit-annotation-afterall" />
         <module name="junit-annotation-ParameterizedTest" />
